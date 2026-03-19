@@ -241,3 +241,8 @@ If you use this code or build on this work, please cite:
 Axis Institute of Technology and Management, Kanpur, India
 
 *Questions, issues, and pull requests are welcome.*
+
+---
+
+## Disclaimer
+This repository and its assets, including the PNG files, were created with the assistance of an AI model, Anthropic's Claude
